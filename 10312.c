@@ -11,7 +11,7 @@ int main()
  {
  printf("xは重解をもつ");
  }
- else if (D>=0)
+ else if (D>0)
  {
  printf("xは異なる2つの実数解をもつ");
  }
